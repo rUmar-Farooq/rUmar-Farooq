@@ -1,70 +1,63 @@
-# 👋 Hi, I'm Umar Farooq
-
-🎓 BCA Student | 💻 Full Stack Developer | 🌐 Aspiring Web Security Analyst
-
-I’m passionate about building scalable web apps with beautiful interfaces and secure, modern architecture. I love working with **React**, **Node.js**, and **.NET MVC**, and I’m currently exploring advanced backend development and security concepts like **JWT**, **role-based access control**, and **OAuth2**.
+<!-- Profile banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=FFA500&width=435&lines=Hi+there!+I'm+Umar+Farooq;Full+Stack+Web+Developer;BCA+Student+%7C+Security+Learner;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 
 ---
 
-## 🚀 My Tech Stack
+## 🌟 About Me
 
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+```js
+const Umar = {
+  role: "Full Stack Developer",
+  learning: ["Advanced Backend", "JWT", "OAuth2", "Security"],
+  focus: ["Scalable apps", "Modern UI", "Role-based systems"],
+  funFact: "I love debugging more than bugs love me 🐛",
+  education: "BCA @ IGNOU",
+  hobbies: ["Cricket 🏏", "Tech 💻", "Learning 🧠"]
+};
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-239120?logo=c-sharp&logoColor=white)
-![ASP.NET Core MVC](https://img.shields.io/badge/-ASP.NET_Core_MVC-blueviolet?logo=dotnet)
 
-### Database & Auth
-![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-darkred?logo=jsonwebtokens&logoColor=white)
+🚀 Tech Stack
 
-### Tools
-![Git](https://img.shields.io/badge/-Git-black?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman)
+Frontend
 
----
+    HTML
+    CSS3
+    JavaScript
+    React
 
-## 📂 My Projects
+Backend
 
-### 🛒 [Furniture E-Commerce Website (.NET MVC)](https://github.com/rUmar-Farooq/furniture-store)
-A role-based full-stack furniture store built using .NET Core MVC  
-**Features**: Admin/Seller/User roles, secure JWT auth, cart, orders, seller request system
+    Node.js
+    Express
+    C#
 
-### 📚 [Course Platform (Node.js + MongoDB)](https://github.com/rUmar-Farooq/course-platform)
-Udemy-style backend with protected lessons and payment-ready models  
-**Tech**: Express, MongoDB, Mongoose, Multer, JWT
+Database & Security
 
-### 📝 [React Notes App (Full Stack)](https://github.com/rUmar-Farooq/notes-frontend)
-Google Keep–style note manager built in React + Node  
-**Features**: Create, delete, mark as complete, responsive layout
+    MongoDB
+    MySQL
+    JWT
 
-### 💼 [3D Portfolio Website](https://github.com/rUmar-Farooq/3D-Portfolio)
-Modern personal portfolio with animations and 3D models  
-**Stack**: React, Three.js, Tailwind, Framer Motion
+Tools
 
-### 🔐 [JWT Auth Backend (Node.js)](https://github.com/rUmar-Farooq/basic-jwt-auth)
-Simple backend for authentication using JWT and bcrypt  
-**Purpose**: Learn secure token generation, protected routes, and login middleware
+    Git
+    VS Code
+    Postman
 
----
 
-## 📫 Connect with Me
+📦 Featured Projects
+<details> <summary>🛒 Furniture Store (.NET MVC)</summary> A complete e-commerce web app with Admin/Seller/User roles 🔐 Secure JWT | 🛍 Cart & Orders | 📦 Seller Request Workflow 🔗 [View Project](https://github.com/rUmar-Farooq/furniture-store) </details> <details> <summary>📚 Course Platform (Node + MongoDB)</summary> Full-featured Udemy-like backend with protected lessons 💾 Mongoose | 🎬 Video Upload | 💳 Payment-ready models 🔗 [View Project](https://github.com/rUmar-Farooq/course-platform) </details> <details> <summary>📝 Notes App (React + MongoDB)</summary> Modern note-taking with CRUD, completion toggles, and search 🧠 MongoDB Backend | 🟢 React UI | 🔔 Toast Notifications 🔗 [View Project](https://github.com/rUmar-Farooq/notes-frontend) </details> <details> <summary>💼 3D Portfolio Website</summary> Beautiful interactive portfolio with animation and dark mode ⚙️ React + Framer Motion + Tailwind + Three.js 🔗 [View Project](https://github.com/rUmar-Farooq/3D-Portfolio) </details>
 
-- LinkedIn: [linkedin.com/in/umar-farooq-dev](https://linkedin.com/in/umar-farooq-dev)
-- GitHub: [github.com/rUmar-Farooq](https://github.com/rUmar-Farooq)
-- Email: **umarfarooq.dev@gmail.com**
 
----
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rUmar-Farooq&show_icons=true&theme=radical&count_private=true" width="47%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rUmar-Farooq&theme=radical" width="47%"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rUmar-Farooq&layout=compact&theme=radical" width="47%" /> </p>
 
-⭐ *If you like my work, consider starring my projects and connecting!*
+
+🌐 Connect With Me
+
+    🔗 LinkedIn
+
+    💼 GitHub
+
+    📧 Email: umarfarooq.dev@gmail.com
+
 
