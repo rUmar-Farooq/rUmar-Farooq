@@ -1,106 +1,11 @@
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+I'm+Umar+Farooq!;Full+Stack+Web+Developer+%7C+BCA+Student;React+%2F+Node+%2F+.NET+MVC+%7C+3D+UI+Lover;Let’s+Build+Secure+%26+Scalable+Apps+Together+🚀" alt="Typing SVG" />
+<h1 align="center">Hi 👋, I'm Umar Farooq</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/umar-farooq-253534341/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/umar-farooq-253534341/" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-## 👋 About Me
-
-🎓 BCA Student | 💻 Full Stack Developer | 🔐 Web Security Learner  
-I'm passionate about building scalable, secure, and modern web apps with beautiful UI and seamless UX. I specialize in **React**, **Node.js**, **Next.js**, and **.NET Core MVC**, and I’m constantly learning advanced backend and authentication systems like **JWT**, **OAuth2**, and **RBAC**.  
-I also love working on **3D UIs**, **animations**, and **performance-focused** code.
-
----
-
-## 🚀 Tech Stack
-
-### 🌐 Frontend  
-![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563d7c?logo=bootstrap&logoColor=white)
-
-### 🧠 Backend  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&logoColor=white)
-![C#](https://img.shields.io/badge/-CSharp-239120?logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-blueviolet?logo=dotnet&logoColor=white)
-
-### 🛢️ Databases & Auth  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-black?logo=jsonwebtokens)
-![OAuth2](https://img.shields.io/badge/-OAuth2-grey?logo=oauth)
-
-### 🛠️ Tools  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/-Postman-F46C30?logo=postman)
-
----
-
-## 📂 Featured Projects
-
-<details>
-  <summary>🛒 <strong>Furniture E-Commerce (.NET MVC)</strong></summary>
-  Role-based furniture store with full-stack features  
-  ✅ Admin/Seller/User Roles | 🛡️ JWT Auth | 🛍️ Cart + Orders  
-  🔗 [GitHub Link](https://github.com/rUmar-Farooq/furniture-store)
-</details>
-
-<details>
-  <summary>📚 <strong>Course Platform (Node.js + MongoDB)</strong></summary>
-  Backend system like Udemy with protected lessons and payment flow  
-  🎥 Video Upload | 🧾 Secure Auth | 🎓 Course Enrollments  
-  🔗 [GitHub Link](https://github.com/rUmar-Farooq/course-platform)
-</details>
-
-<details>
-  <summary>📝 <strong>React Notes App (Full Stack)</strong></summary>
-  Google Keep-style notes app with complete CRUD  
-  ✅ Search, complete toggle, responsive UI  
-  🔗 [GitHub Link](https://github.com/rUmar-Farooq/notes-frontend)
-</details>
-
-<details>
-  <summary>💼 <strong>3D Portfolio Website</strong></summary>
-  Personal portfolio with 3D visuals and animation  
-  🎨 Three.js | 💻 React | ✨ Framer Motion  
-  🔗 [GitHub Link](https://github.com/rUmar-Farooq/3D-Portfolio)
-</details>
-
----
-
-## 📊 GitHub Stats (Animated)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rUmar-Farooq&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rUmar-Farooq&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rUmar-Farooq&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
-## 🌍 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/umar-farooq-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github&style=flat-square)](https://github.com/rUmar-Farooq)
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&style=flat-square)](mailto:umarfarooq.dev@gmail.com)
-
----
-
-## 👁️‍🗨️ Visitor Counter
-
-![visitors](https://komarev.com/ghpvc/?username=rUmar-Farooq&label=PROFILE+VIEWS&color=0e75b6&style=flat)
-
----
-
-⭐ *If you like my work, consider starring my repositories and connecting with me!*
