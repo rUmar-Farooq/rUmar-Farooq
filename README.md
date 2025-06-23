@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NestJS, Cloud DevOps, and Advanced React**
 - 💬 Ask me about **MERN, .NET Core MVC, MongoDB, SQL, Next.js, and APIs**
-- 📫 How to reach me: **umarfarooqdev@gmail.com**
+- 📫 How to reach me: **umarfarooqgurezigmail.com**
 - ⚡ Fun fact: I turn ☕ into clean code!
 
 ---
@@ -58,6 +58,6 @@
 ### 📬 Contact
 
 ```text
-📧 Email: umarfarooqdev@gmail.com  
+📧 Email: umarfarooqgurezigmail.com  
 🌍 Portfolio: coming soon...
 📱 WhatsApp: available on request
